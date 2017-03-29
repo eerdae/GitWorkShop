@@ -1,0 +1,18 @@
+body, p {
+	line-height: 1;
+	font-family: sans-serif;
+  font-size: 20px;
+	background-image: url(./img/rockbackground.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	margin: 0 auto;
+}
+
+.mygif {
+
+}
+
+#mygif {
+  height: 200px;
+  width: auto;
+}
